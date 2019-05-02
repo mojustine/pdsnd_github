@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+Project Created 28th APril README file created 3rd May
 
 ### Project Title
-Replace the Project Title
+BikeShare Stats Project
 
 ### Description
-Describe what your project is about and what it does
+Project is aimed at analysing BikeShare bike borrowing stats
 
 ### Files used
-Include the files used
+Three csv file from
+
+1.Chicago.cs
+2.new-york-city.csv
+3.washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit to my dear husband Moses Mwangi and our family friend John Mugendi
+
+#### Comment
+Changes made on the refactoring branch
 
