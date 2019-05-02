@@ -14,7 +14,6 @@
 
     This program takes in bikeshare data from three cities: Washington, Chicago and New York and returns aggregated data
 """
-#Adding a new change for the github project made 3rd May 2019
 
 # In[2]:
 
