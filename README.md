@@ -23,3 +23,6 @@ The files inlcuded
 
 ### Credits
 The project could not have been successful without the support of two great people my Husband Moses MWangi with whom we are studying data science and John Mugendi a data scientist at Microsoft.
+
+###### Changes
+Added a new change 3rd May 2019
